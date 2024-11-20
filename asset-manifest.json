@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/testecarrinho/static/css/main.e6c13ad2.css",
+    "main.js": "/testecarrinho/static/js/main.0f1bd2ef.js",
+    "index.html": "/testecarrinho/index.html",
+    "main.e6c13ad2.css.map": "/testecarrinho/static/css/main.e6c13ad2.css.map",
+    "main.0f1bd2ef.js.map": "/testecarrinho/static/js/main.0f1bd2ef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.0f1bd2ef.js"
+  ]
+}
